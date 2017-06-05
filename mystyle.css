@@ -1,0 +1,18 @@
+#banner {
+  background-color: #000;
+  background-image: url("http://img.wennermedia.com/social/the-tao-of-agent-cooper-twin-peaks-baacfb10-adc2-4227-8813-ef1b5afc8788.jpg");
+  background-position: center top;
+  width: 100%;
+  height: 300px;
+  text-align: right;
+  text-decoration-color: white;
+}
+
+#column_one {
+  background-image: url("https://static1.squarespace.com/static/5578d503e4b0bc473a0165e5/t/5579fae4e4b0e5d70c35b2f5/1434057458347/Red-Curtains-Vector-Powerpoint-Backgrounds.jpg?format=2500w");
+  width:100%;
+  height: 700px;
+  float:left;
+  text-align: center;
+  background-repeat: repeat;
+}
